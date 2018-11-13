@@ -1,0 +1,29 @@
+﻿{
+  "datasets":[
+    {	
+     "name" :"2018",
+  
+     "startColor":"#8085e9",
+     "endColor":"#FFFFFF",
+     "circleColor":"#51BBD1",
+     "borderColor":"#19227F",
+     "points": [
+      {
+        "x": "Berlin",
+        "y": "17"}
+      ,{
+        "x": "Paris",
+        "y": "38"}
+        ,{
+       "x": "London",
+        "y": "177"
+      }
+      ,{
+       "x": "Rome",
+        "y": "24"
+      }
+    ]
+  }
+  
+  ]
+  }

@@ -1,0 +1,16 @@
+{
+  "name": "sample-hapi-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.7.0",
+    "jsonwebtoken": "^8.3.0"
+  }
+}
