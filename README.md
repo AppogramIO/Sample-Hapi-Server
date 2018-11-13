@@ -1,8 +1,4 @@
-<<<<<<< HEAD:README.md
 # Appogram Sample With Hapi
-=======
-# Appogram Sample With Hapi 
->>>>>>> 398ea5d8f82f62dd78e895700fcce69a211ec4a0:README
 
 this repository contain a very simple server that written in JavaScript and [Hapi](https://hapijs.com/)
 
